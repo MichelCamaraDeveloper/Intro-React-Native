@@ -1,7 +1,7 @@
 # Intro-React-Native
  Aprendendo sobre o React Native. Rocketseat.<br/>
  Esse singelo aplicativo foi uma maneira que eu escolhi para reciclar alguns conhecimentos que possuo em React Native.
- <img  src="imgs/react.png" width="600px" height="450px"/>
+ <img  src="imgs/react.jpg" width="850px" height="450px"/>
  
  
  # Sobre as configurações técnicas/ambiente de desenvolvimento
